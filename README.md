@@ -35,3 +35,11 @@ The program should walk you through it but the steps in order are:
 1. Delete the executable
 2. Delete the 'C:\Users\[your name]\AppData\Roaming\DS3 Mod Switch' folder
 3. Delete the 'C:\Users\[your name]\AppData\Local\DkS3ModSwitcher' folder.
+
+# Troubleshooting
+1. Make sure that another window hasn't opened.
+2. Follow steps above to completely uninstall and relaunch.
+
+# Known Issues
+-Windows pop under other windows making it look like nothing is happening.
+-The program open in a small box in the corner of the screen and can be hard to see.
