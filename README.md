@@ -7,9 +7,10 @@ Provided under the GNU General Public License v3.0. (See LICENSE for more detail
 # Important
 Cinders and Champion's Ashes, when played online, will both ban your account. Use only with caution. Normally, Cinders has a block on online play to protect users; I have disabled this by default. Please be very careful!
 
-# Installation and Setup
-Use bin/DkS3ModSwitcher.exe!
+# Download
+Use bin\DkS3ModSwitcher.exe from repository.
 
+# Installation and Setup
 -First and foremost, make sure you run Dark Souls 3 unmodded beforehand. I would recommend creating a single character and saving.
 
 -Download and install Cinders and Champion's Ashes. Refer to their individual mod pages to work through the installation. I would recommend installing Cinders before Ashes. 
