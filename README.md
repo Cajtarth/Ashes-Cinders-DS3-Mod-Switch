@@ -10,7 +10,8 @@ Cinders and Champion's Ashes, when played online, will both ban your account. Us
 # Download
 Use bin\DkS3ModSwitcher.exe from repository.
 
-# Installation and Setup
+# Installation
+Download the Mod Switcher.
 If starting with no mods installed:
   1. First and foremost, make sure you run Dark Souls 3 unmodded beforehand. I would recommend creating a single character and saving.
   2. Download and install Cinders and Champion's Ashes. Refer to their individual mod pages to work through the installation. I would recommend installing Cinders before Ashes. 
@@ -22,6 +23,7 @@ If starting with one of the mods already installed:
   2. Make sure Ashes is enabled.
   3. Run the mod switcher.
 
+# Setup
 Before you get started, it would probably be a good idea to know a few things:
 1. Where your Dark Souls 3 executable is
 2. Where your Dark Souls 3 save location is
