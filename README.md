@@ -7,6 +7,12 @@ Provided under the GNU General Public License v3.0. (See LICENSE for more detail
 # Important
 Cinders and Champion's Ashes, when played online, will both ban your account. Use only with caution. Normally, Cinders has a block on online play to protect users; I have disabled this by default. Please be very careful!
 
+# Use Case
+Use if you want to switch between Champion's Ashes and Cinders (and Vanilla) without having to manually move folders every time.
+
+# What This Software Will Not Do
+It will NOT automatically update Champion's Ashes so you WILL need to run the Champion's Ashes launcer occasionally to update.
+
 # Download
 Use bin\DkS3ModSwitcher.exe from repository.
 
