@@ -20,13 +20,13 @@ Use bin\DkS3ModSwitcher.exe from repository.
 Download the Mod Switcher.
 If starting with no mods installed:
   1. First and foremost, make sure you run Dark Souls 3 unmodded beforehand. I would recommend creating a single character and saving.
-  2. Download and install Cinders and Champion's Ashes. Refer to their individual mod pages to work through the installation. I would recommend installing Cinders before Ashes. 
-  3. Run Ashes' launcher and click on the "Mod Disabled" button to enable the mod.
+  2. Download and install Cinders and Champion's Ashes. Refer to their individual mod pages to work through the installation. I would recommend installing Ashes before Cinders. 
+  3. When you install Cinders, overwrite any duplicate files.
   4. You should be ready to run the mod switcher now.
     
 If starting with one of the mods already installed:
   1. Install the other mod.
-  2. Make sure Ashes is enabled.
+  2. Make sure Ashes is enabled (really just make sure that dinput8.dll is in the Game folder).
   3. Run the mod switcher.
 
 # Setup
