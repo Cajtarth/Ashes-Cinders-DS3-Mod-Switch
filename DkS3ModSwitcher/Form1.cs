@@ -1,5 +1,5 @@
 ﻿//Dark Souls 3 Mod Switcher - For switching between Ashes and Cinders mods in Dark Souls 3.
-//Copyright (C) 2020 T. Austin McNamara
+//Copyright (C) 2020 T. A. McNamara
 //Provided as-is; use at own risk!
 
 /* 
