@@ -11,7 +11,7 @@ Cinders and Champion's Ashes, when played online, will both ban your account. Us
 Use if you want to switch between Champion's Ashes and Cinders (and Vanilla) without having to manually move folders every time.
 
 # What This Software Will Not Do
-It will NOT automatically update Champion's Ashes so you WILL need to run the Champion's Ashes launcer occasionally to update.
+It will NOT automatically update Champion's Ashes so you WILL need to run the Champion's Ashes launcher occasionally to update.
 
 # Download
 Use bin\DkS3ModSwitcher.exe from repository.
